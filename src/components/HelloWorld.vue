@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>수정수정수정</h1>
+    <p>소연이가 수정함</p>
   </div>
 </template>
 
