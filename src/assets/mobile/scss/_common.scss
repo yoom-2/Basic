@@ -1,0 +1,33 @@
+html, body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+body {
+  background: #f2f2f2;
+  width: 100%;
+}
+
+a, a:hover {
+  color: #111111;
+  text-decoration: none;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  max-width: 768px;
+  min-height: 100vh;
+  margin: 0 auto;
+  background: #ffffff;
+}
+
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 768px !important;
+}
+
+.row {
+  margin-left: -5px;
+  margin-right: -5px;
+}
